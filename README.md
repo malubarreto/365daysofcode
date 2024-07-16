@@ -5,4 +5,4 @@ This is a repository of my experience in 365 Days Of Code. Each project listed b
 None
 
 ## Daily Log
-Day 1:
+Day 1 (16/07/2024):
