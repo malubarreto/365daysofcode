@@ -1,8 +1,11 @@
 # 365 Days Of Code (16/07/2024 - ?)
 This is a repository of my experience in 365 Days Of Code. Each project listed below represents a day (or days) of dedication and learning.
 
+## Progress Of Day
+All the progress of the day, the things I thought were relevant to take note are here:
+
 ## Projects
 None
 
 ## Daily Log
-Day 1 (16/07/2024):
+Day 1 (16/07/2024): I saw 30 minutes of [Linear Algebra in AI](https://youtu.be/3Bf9oh7nkus?si=NMlsASKlCnneRoVZ). Then, I saw the introduction of the course [Complete A.I. & Machine Learning, Data Science Bootcamp](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/).
