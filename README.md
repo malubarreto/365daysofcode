@@ -8,4 +8,4 @@ All the progress of the day, the things I thought were relevant to take note are
 None
 
 ## Daily Log
-Day 1 (16/07/2024): I saw 30 minutes of [Linear Algebra in AI](https://youtu.be/3Bf9oh7nkus?si=NMlsASKlCnneRoVZ). Then, I saw the introduction of the course [Complete A.I. & Machine Learning, Data Science Bootcamp](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/).
+Day 1 (16/07/2024): I saw 30 minutes of the video [Linear Algebra in AI](https://youtu.be/3Bf9oh7nkus?si=NMlsASKlCnneRoVZ). Then, I saw the introduction of the course [Complete A.I. & Machine Learning, Data Science Bootcamp](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/).
