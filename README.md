@@ -2,7 +2,7 @@
 This is a repository of my experience in 365 Days Of Code. Each project listed below represents a day (or days) of dedication and learning.
 
 ## Progress Of Day
-All the progress of the day, the things I thought were relevant to take note are here: [365DaysOfMachineLearning](https://smart-reaper-1c5.notion.site/365-Days-Of-Machine-Learning-ad8aa1ae8287449da38d0bc2fd44b3f9)
+All the progress of the day, the things that I think are relevant to take notes are here: [365DaysOfMachineLearning](https://smart-reaper-1c5.notion.site/365-Days-Of-Machine-Learning-ad8aa1ae8287449da38d0bc2fd44b3f9)
 
 ## Projects
 None
