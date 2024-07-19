@@ -14,3 +14,5 @@ Day 2 (17/07/2024): I finished sections 2, 3 and 4 of the course and took notes 
 ](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/). I decided that I'm going to follow the Python path.
 
 Day 3 (18/07/2024): I finished the instalation of the Jupyter Notebook after 2 hours of sacrifice and learned the basics of Python until operator precedence.
+
+Day 4 (19/07/2024): I learned about Variables, Strings, Booleans until the beginning of Lists.
