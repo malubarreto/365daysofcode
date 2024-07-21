@@ -16,3 +16,5 @@ Day 2 (17/07/2024): I finished sections 2, 3 and 4 of the course and took notes 
 Day 3 (18/07/2024): I finished the instalation of the Jupyter Notebook after 2 hours of sacrifice and learned the basics of Python until operator precedence.
 
 Day 4 (19/07/2024): I learned about Variables, Strings, Booleans until the beginning of Lists.
+
+Day 5 (20/07/2024): I finished the section 1 of explanation about python, but also did some extra external exercises from W3schools to practice all the content of the section until sets.
