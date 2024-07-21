@@ -18,3 +18,5 @@ Day 3 (18/07/2024): I finished the instalation of the Jupyter Notebook after 2 h
 Day 4 (19/07/2024): I learned about Variables, Strings, Booleans until the beginning of Lists.
 
 Day 5 (20/07/2024): I finished the section 1 about python, but also did some extra external exercises from W3schools to practice all the content of the section until sets.
+
+Day 6 (21/07/2024): 
