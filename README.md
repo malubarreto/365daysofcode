@@ -20,3 +20,5 @@ Day 4 (19/07/2024): I learned about Variables, Strings, Booleans until the begin
 Day 5 (20/07/2024): I finished the section 1 about python, but also did some extra external exercises from W3schools to practice all the content of the section until sets.
 
 Day 6 (21/07/2024): I learned about conditions, loops with for and while, break, continue, pass.
+
+Day 7 (22/07/2024): I finished the section 2 about python, did the recomended exams from w3schools: [25 questions](https://www.w3schools.com/quiztest/quiztest.asp?qtest=PYTHON) and [95 questions](https://www.w3schools.com/python/exercise.asp). Besides, I searched about modules and classes in Python.
