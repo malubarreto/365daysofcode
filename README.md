@@ -22,3 +22,5 @@ Day 5 (20/07/2024): I finished the section 1 about python, but also did some ext
 Day 6 (21/07/2024): I learned about conditions, loops with for and while, break, continue, pass.
 
 Day 7 (22/07/2024): I finished the section 2 about python, did the recomended exams from w3schools: [25 questions](https://www.w3schools.com/quiztest/quiztest.asp?qtest=PYTHON) and [95 questions](https://www.w3schools.com/python/exercise.asp). Besides, I searched about modules and classes in Python.
+
+Day 8 (23/07/2024): I finished section 6 about pandas, learned how to import a csv file, some basic methods and did the exercises.
