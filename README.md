@@ -25,4 +25,6 @@ Day 7 (22/07/2024): I finished the section 2 about python, did the recomended ex
 
 Day 8 (23/07/2024): I finished section 6 about pandas, learned how to import a csv file, some basic methods and did the exercises, but not all of them.
 
-Day 9 (23/07/2024): I did the easy exercises from a [video](https://youtu.be/i7v2m-ebXB4?si=Jl9ziOIVKU8--XOj) doing [100 pandas exercises](https://github.com/ajcr/100-pandas-puzzles). Then, I started section 7 about numpy in the Data Science course.
+Day 9 (24/07/2024): I did the easy exercises from a [video](https://youtu.be/i7v2m-ebXB4?si=Jl9ziOIVKU8--XOj) doing [100 pandas exercises](https://github.com/ajcr/100-pandas-puzzles). Then, I started section 7 about numpy in the Data Science course.
+
+Day 10 (25/07/2024): I focused on a revision of the past days. 
