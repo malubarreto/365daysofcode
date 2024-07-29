@@ -34,3 +34,5 @@ Day 11 (26/07/2024): I continued the numpy section, but didn't finish.
 Day 12 (27/07/2024): Today I started seeing a little bit of math, but not too much. I started the playlist [Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&pp=iAQB) on Youtube and then saw a little bit of [Calculus 1 with Kan Academy Platform](https://www.khanacademy.org/math/calculus-1). I continued the numpy section, I think it's the most exhausting, because I'm finding it difficult to understand.
 
 Day 13 (28/07/2024): I finished section 7 about numpy.
+
+Day 14 (29/07/2024): I did exercises and read the documentation of numpy and then started section 8 of matplotlib.
