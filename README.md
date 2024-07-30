@@ -36,3 +36,6 @@ Day 12 (27/07/2024): Today I started seeing a little bit of math, but not too mu
 Day 13 (28/07/2024): I finished section 7 about numpy.
 
 Day 14 (29/07/2024): I did exercises and read the documentation of numpy and then started section 8 of matplotlib.
+
+Day 15 (30/07/2024): To be different I continued the other course [The Data Science Course: Complete Data Science Bootcamp 2024
+](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/). Then, I watched the first [video about Neural Networks](https://youtu.be/aircAruvnKk?si=5ipzKpFHZykjTtfU).
