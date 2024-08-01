@@ -41,3 +41,5 @@ Day 15 (30/07/2024): To be different I continued the other course [The Data Scie
 ](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/). Then, I watched the first [video about Neural Networks](https://youtu.be/aircAruvnKk?si=5ipzKpFHZykjTtfU).
 
 Day 16 (31/07/2024): I started to read a book about Data Science.
+
+Day 17 (01/08/2024): I continued the section 8 about numpy, learned the basic workflow of matplotlib.
