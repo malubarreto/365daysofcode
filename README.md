@@ -39,3 +39,5 @@ Day 14 (29/07/2024): I did exercises and read the documentation of numpy and the
 
 Day 15 (30/07/2024): To be different I continued the other course [The Data Science Course: Complete Data Science Bootcamp 2024
 ](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/). Then, I watched the first [video about Neural Networks](https://youtu.be/aircAruvnKk?si=5ipzKpFHZykjTtfU).
+
+Day 16 (31/07/2024): I started to read a book about Data Science.
