@@ -42,4 +42,6 @@ Day 15 (30/07/2024): To be different I continued the other course [The Data Scie
 
 Day 16 (31/07/2024): I started to read a book about Data Science.
 
-Day 17 (01/08/2024): I continued the section 8 about numpy, learned the basic workflow of matplotlib.
+Day 17 (01/08/2024): I continued the section 8 about matplotlib, learned the basic workflow of matplotlib.
+
+Day 18 (02/08/2024): I continued the section 8 about matplotlib, learned abou histograms, subplots and how to plotting from pandas DataFrames.
