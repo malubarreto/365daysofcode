@@ -47,3 +47,5 @@ Day 17 (01/08/2024): I continued the section 8 about matplotlib, learned the bas
 Day 18 (02/08/2024): I continued the section 8 about matplotlib, learned abou histograms, subplots and how to plotting from pandas DataFrames.
 
 Day 19 (03/08/2024): I finished the section 8 about matplotlib.
+
+Day 20 (04/08/2024): I learned about local and global scope and did a project about number guessing.
