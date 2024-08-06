@@ -51,3 +51,5 @@ Day 19 (03/08/2024): I finished the section 8 about matplotlib.
 Day 20 (04/08/2024): I learned about local and global scope and did a project about number guessing.
 
 Day 21 (05/08/2024): I learned about debugging and did a higher or lower game about influencers on Instagram. I also started the project about coffee machine.
+
+Day 22 (06/08/2024): I finished the project about coffee machine. 
